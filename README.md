@@ -2,7 +2,7 @@
 ### 😃팀원소개
 | 정의진 | 전아영 | 이성민 | 이창윤 | 박상현 | 남가람 |
 | --- | --- | --- | --- | --- | --- |
-| [깃 링크](https://github.com/JungUiJin) | [깃 링크](https://github.com/AYeong-Jeon) | [깃 링크](https://github.com/sungmini9755) | [깃 링크](https://github.com/leebackcoding) | [깃 링크](https://github.com/SANGHYUN0519) | [깃 링크](https://github.com/catnine11) |
+| [깃 링크](https://github.com/JungUiJin) | [깃 링크](https://github.com/AYeong-Jeon) | [깃 링크](https://github.com/sungmini) | [깃 링크](https://github.com/leebackcoding) | [깃 링크](https://github.com/SANGHYUN0519) | [깃 링크](https://github.com/catnine11) |
 
 ![title](./img/readme_img/title_img.JPG)
 
